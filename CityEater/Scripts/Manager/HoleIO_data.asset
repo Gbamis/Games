@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4934b4a1cb508aa46b07f4efaca9dc9d, type: 3}
+  m_Name: HoleIO_data
+  m_EditorClassIdentifier: 
+  playerSpeed: 4.4999995
+  playerBoostSpeed: 7
+  playerBoostSpeedTimeLimit: 10
+  playerScore: 80
+  swallowForce: 100
+  totalPlayTime: 60
+  windmillSpeed: 10
+  elapsedTime: 37.894245
+  playerTurnSpeed: 5
+  cameraFollowSpeed: 2
+  cameraOffset: {x: -1.81, y: 4.55, z: -3.4}
+  cityRotationIndex: 2
+  playerSpawnIndex: 0
+  randThemeIndex: 2
+  randDroneSpawnPoint: 2
+  randomDroneStartTime: 16
+  randomDronRunTime: 12
+  vehicleTypeIndex: 06000000010000000400000000000000070000000100000000000000050000000500000000000000
+  randomPeopleTypeIndex: 000000000300000002000000000000000000000000000000
